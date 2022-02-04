@@ -83,6 +83,12 @@ nav.sticky .menu a:hover{
   font-size: 18px;
   margin: 0 6px;
 }
+nav .navbar .menu .other-icons{
+        display:none;
+        justify-content: space-around;
+        align-items: center;
+        min-width:60%;
+}
 nav.sticky .media-icons a{
   color: #FFF;
 }
@@ -464,6 +470,9 @@ footer .text span a:hover{
   }
   nav .navbar .media-icons{
     display: none;
+  }
+  nav .navbar .menu .other-icons{
+          display:flex;
   }
   nav .menu-btn,
   .navbar .menu .cancel-btn{
