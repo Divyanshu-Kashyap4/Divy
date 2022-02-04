@@ -35,7 +35,7 @@ nav{
   font-family: 'Ubuntu', sans-serif;
 }
 nav.sticky{
-  background: #4070f4;
+  background: black;
   padding: 13px 0;
 }
 nav .navbar{
@@ -44,7 +44,7 @@ nav .navbar{
   justify-content: space-between;
   align-items: center;
   margin: auto;
-  color: #4070f4;
+  color: black;
 }
 nav .navbar .logo a{
   font-weight: 500;
@@ -100,7 +100,7 @@ nav .menu-btn,
   display: none;
 }
 nav .menu-btn{
-  color: #4070f4;
+  color: white;
 }
 nav.sticky .menu-btn{
   color: #FFF;
@@ -129,10 +129,10 @@ nav.sticky .menu-btn{
 }
 .home .text-one{
   font-size: 25px;
-  color: #0E2431;
+  color: black;
 }
 .home .text-two{
-  color: #0E2431;
+  color: black;
   font-size: 50px;
   font-weight: 600;
   margin-left: -3px;
